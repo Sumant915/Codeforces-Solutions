@@ -6,21 +6,50 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [math](#math) (1)
+- [brute force](#brute-force) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
+- [math](#math) (2)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Sumant915/Codeforces-Solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 
 ---
 
